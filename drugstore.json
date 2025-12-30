@@ -1,0 +1,29 @@
+{
+  "druggists": [
+    {
+      "id": "1",
+      "name": "жаби52",
+      "experience": 8,
+      "isWorking": true,
+      "educations": [
+        "1 university",
+        "2 university"
+      ],
+      "dateOfBirth": "2025-12-29T07:17:32.235Z"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "name": "Жаби Болеющий",
+      "age": 22,
+      "isFirstTime": false,
+      "cart": [
+        "med1",
+        "med2",
+        "med3"
+      ],
+      "lastPurchase": "26/12/2025"
+    }
+  ]
+}
