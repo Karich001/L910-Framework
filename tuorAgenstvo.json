@@ -1,0 +1,11 @@
+{
+    "tuorAgentstva":[
+        {
+            "name":"Ajob",
+            "id": "1",
+            "IsWork": true,
+            "DateRegistr":"2008-01-28",
+            "Emails":["antonmalasenko414@gmail.com", "phnton@gmail.com"]
+        }
+    ]
+}
