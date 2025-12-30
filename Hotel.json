@@ -1,0 +1,11 @@
+{
+    "Hotels":[
+        {
+            "name":"Ajob",
+            "id": "1",
+            "IsAllInclusive": true,
+            "DateOpening":"2000-02-15",
+            "Services":["Сауна", "Прокат лыж", "Ресторан"]
+        }
+    ]
+}
