@@ -1,0 +1,134 @@
+{
+  "owners": [
+    {
+      "id": "owner-1",
+      "name": "Иван Петров",
+      "age": 34,
+      "hasLicense": true,
+      "cars": ["car-1"],
+      "registeredAt": "2022-01-10T12:00:00.000Z"
+    },
+    {
+      "id": "owner-2",
+      "name": "Ольга Смирнова",
+      "age": 28,
+      "hasLicense": false,
+      "cars": ["car-2"],
+      "registeredAt": "2023-05-05T09:15:00.000Z"
+    },
+    {
+      "id": "owner-3",
+      "name": "Сергей Иванов",
+      "age": 41,
+      "hasLicense": true,
+      "cars": ["car-3"],
+      "registeredAt": "2021-09-12T11:30:00.000Z"
+    },
+    {
+      "id": "owner-4",
+      "name": "Анна Кузнецова",
+      "age": 25,
+      "hasLicense": true,
+      "cars": ["car-4"],
+      "registeredAt": "2020-03-20T08:45:00.000Z"
+    },
+    {
+      "id": "owner-5",
+      "name": "Дмитрий Соколов",
+      "age": 38,
+      "hasLicense": true,
+      "cars": ["car-5"],
+      "registeredAt": "2023-07-01T14:10:00.000Z"
+    },
+    {
+      "id": "owner-6",
+      "name": "Мария Васильева",
+      "age": 30,
+      "hasLicense": false,
+      "cars": ["car-6"],
+      "registeredAt": "2019-11-18T09:00:00.000Z"
+    },
+    {
+      "id": "owner-7",
+      "name": "Алексей Морозов",
+      "age": 45,
+      "hasLicense": true,
+      "cars": ["car-7"],
+      "registeredAt": "2022-06-22T10:20:00.000Z"
+    },
+    {
+      "id": "owner-8",
+      "name": "Екатерина Фролова",
+      "age": 27,
+      "hasLicense": true,
+      "cars": ["car-8"],
+      "registeredAt": "2021-02-14T15:40:00.000Z"
+    }
+  ],
+  "cars": [
+    {
+      "id": "car-1",
+      "model": "Volt-X",
+      "year": 2021,
+      "isElectric": true,
+      "features": ["autopilot", "heated seats", "bluetooth"],
+      "manufacturedAt": "2021-03-15T10:00:00.000Z"
+    },
+    {
+      "id": "car-2",
+      "model": "Roadster 200",
+      "year": 2018,
+      "isElectric": false,
+      "features": ["sunroof", "leather", "parking sensors"],
+      "manufacturedAt": "2018-07-22T08:30:00.000Z"
+    },
+    {
+      "id": "car-3",
+      "model": "EcoRide S",
+      "year": 2022,
+      "isElectric": true,
+      "features": ["fast charging", "lane assist", "voice control"],
+      "manufacturedAt": "2022-05-10T09:45:00.000Z"
+    },
+    {
+      "id": "car-4",
+      "model": "Thunder GT",
+      "year": 2019,
+      "isElectric": false,
+      "features": ["turbo engine", "sport mode", "ABS"],
+      "manufacturedAt": "2019-11-02T14:20:00.000Z"
+    },
+    {
+      "id": "car-5",
+      "model": "Solaris EV",
+      "year": 2023,
+      "isElectric": true,
+      "features": ["wireless charging", "panoramic roof", "AI navigation"],
+      "manufacturedAt": "2023-04-18T12:00:00.000Z"
+    },
+    {
+      "id": "car-6",
+      "model": "Cruiser LX",
+      "year": 2017,
+      "isElectric": false,
+      "features": ["cruise control", "rear camera", "climate control"],
+      "manufacturedAt": "2017-08-25T07:30:00.000Z"
+    },
+    {
+      "id": "car-7",
+      "model": "NeoDrive Z",
+      "year": 2020,
+      "isElectric": true,
+      "features": ["gesture control", "adaptive headlights", "autopilot"],
+      "manufacturedAt": "2020-02-12T16:10:00.000Z"
+    },
+    {
+      "id": "car-8",
+      "model": "Titan SUV",
+      "year": 2016,
+      "isElectric": false,
+      "features": ["4x4 drive", "tow package", "roof rack"],
+      "manufacturedAt": "2016-10-05T11:15:00.000Z"
+    }
+  ]
+}
