@@ -1,0 +1,13 @@
+{
+    "Machine" :
+    [
+        {
+        "machineId": 305,
+         "model": "Фрезерный CNC-500",
+        "isOperational": true,
+        "lastMaintenance": "2024-02-28",
+        "maintenanceHistory": ["2024-01-15: замена подшипников", "2023-11-10: калибровка"],
+        "errorCodes": [104, 207, 305]
+        }
+    ]
+}
